@@ -6,4 +6,4 @@ This is the design of Room and rates section of IKOYI HOTEL
 
 Design by
 https://github.com/developerphilo - John Philip and 
-[https://github.com/promise-J](Promise)
+[https://github.com/promise-J](Promise J)
